@@ -12,4 +12,4 @@ Yeh ek AI-based shopping assistant project hai.
 Bas `index.html` file ko apne browser mein open karein.
 
 ## 🌐 Live Demo
-*(Deploy karne ke baad yahan link daal dena)*
+https://zingy-kheer-93bd4b.netlify.app/
