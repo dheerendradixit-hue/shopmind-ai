@@ -11,5 +11,5 @@ Yeh ek AI-based shopping assistant project hai.
 ## 📦 How to run locally (Kaise chalayein)
 Bas `index.html` file ko apne browser mein open karein.
 
-## 🌐 Live Demo
-https://zingy-kheer-93bd4b.netlify.app/
+### 🌐 Live Demo
+[Open ShopMind AI](https://zingy-kheer-93bd4b.netlify.app/)
